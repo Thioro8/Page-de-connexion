@@ -1,0 +1,43 @@
+body{
+    background-color: #8B0000;
+}
+h1{
+    text-align: center;
+}
+
+div.container{
+    margin-top: 20px;
+    margin: auto;
+    border: solid 1px white;
+    border-radius: 10px;
+    max-width: 300px;
+}
+
+.formulaire{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+input{
+    width: 140px;
+    margin: 10px 0;
+    padding: 5px;
+}
+div.bouton{
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+button{
+    cursor: pointer;
+    padding: 5px;
+    
+}
+
+div.login:hover{
+    color: green;
+}
+
+div.password:hover{
+    color: green;
+}
